@@ -1,0 +1,10 @@
+{
+  "prot":8088,
+  "proxy_web":{
+    "static1.ddweb.com.cn":["http://localhost:10001","http://localhost:10002"],
+    "static2.ddweb.com.cn":["http://localhost:20001","http://localhost:20002","http://localhost:20003"]
+  },
+  "visits":{
+
+  }
+}
